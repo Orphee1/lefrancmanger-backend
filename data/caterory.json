@@ -1,0 +1,38 @@
+[
+  {
+    "name": "caterory1",
+    "subCategories": [
+      "5de670462013b30ff9c1b81a",
+      "5de670462013b30ff9c1b81a",
+      "5de670462013b30ff9c1b81a"
+    ]
+  },
+  {
+    "name": "caterory2",
+    "subCategories": [
+      "5de670462013b30ff9c1b81a",
+      "5de670462013b30ff9c1b81a",
+      "5de670462013b30ff9c1b81a"
+    ]
+  },
+  {
+    "name": "caterory3",
+    "subCategories": [
+      "5de670462013b30ff9c1b81a",
+      "5de670462013b30ff9c1b81a",
+      "5de670462013b30ff9c1b81a"
+    ]
+  },
+  {
+    "name": "caterory4",
+    "subCategories": ["5de670462013b30ff9c1b81a"]
+  },
+  {
+    "name": "caterory5",
+    "subCategories": ["5de670462013b30ff9c1b81a", "5de670462013b30ff9c1b81a"]
+  },
+  {
+    "name": "caterory6",
+    "subCategories": []
+  }
+]

@@ -1,0 +1,31 @@
+{
+  "name": "backend-server",
+  "version": "1.0.0",
+  "main": "server.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon server.js",
+    "start": "node server.js",
+    "producer": "node data/imp-producers.js",
+    "product": "node data/imp-products.js",
+    "category": "node data/imp-category.js",
+    "subcat": "node data/imp-subcat.js"
+  },
+  "dependencies": {
+    "axios": "^0.19.0",
+    "body-parser": "^1.19.0",
+    "cloudinary": "^1.17.0",
+    "cors": "^2.8.5",
+    "crypto-js": "^3.1.9-1",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "express-formidable": "^1.2.0",
+    "formidable": "^1.2.1",
+    "install": "^0.13.0",
+    "mogodb": "^0.0.1-security",
+    "mongoose": "^5.7.13",
+    "nodemon": "^2.0.2",
+    "uid2": "0.0.3"
+  }
+}

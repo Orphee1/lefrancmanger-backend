@@ -1,0 +1,641 @@
+[
+  {
+    "address": {
+      "street": "24 rue Maurice Berteaux ",
+      "city": "Andrésy",
+      "zipCode": "78780"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [2.069109, 48.996842]
+    },
+    "loc": {
+      "longitude": 2.069109,
+      "latitude": 48.996842
+    },
+    "meansOPayment": {
+      "cheque": true,
+      "cash": true,
+      "card": true
+    },
+    "email": "bidon4@gmail.com",
+    "phone": "01 39 74 68 94",
+    "description": ["confitures"],
+    "photos": [
+      {
+        "secure_url": "https://res.cloudinary.com/dvcdbwbpi/image/upload/v1575551578/zsampenbkq13r1t25axq.jpg",
+        "public_id": "zsampenbkq13r1t25axq"
+      }
+    ],
+    "products": [],
+    "timeSlot": [
+      {
+        "Monday": {
+          "isOpen": true,
+          "availability": "08H30-16H30"
+        }
+      },
+      {
+        "Tuesday": {
+          "isOpen": true,
+          "availability": "08H30-16H30"
+        }
+      },
+      {
+        "Wednesday": {
+          "isOpen": true,
+          "availability": "08H30-16H30"
+        }
+      },
+      {
+        "Thursday": {
+          "isOpen": true,
+          "availability": "08H30-16H30"
+        }
+      },
+      {
+        "Friday": {
+          "isOpen": true,
+          "availability": "08H30-16H30"
+        }
+      },
+      {
+        "Saturday": {
+          "isOpen": false,
+          "availability": ""
+        }
+      },
+      {
+        "Sunday": {
+          "isOpen": false,
+          "availability": ""
+        }
+      }
+    ],
+    "_id": "5de9025b2c05a10017c73729",
+    "name": "Andrésy confitures",
+    "__v": 0,
+    "createdOn": "2019-12-06T15:01:14.883Z",
+    "updatedOn": "2019-12-06T15:01:14.883Z"
+  },
+  {
+    "address": {
+      "street": "rue de la Palmeraie",
+      "city": "paris",
+      "zipCode": "75010"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [2.159468, 48.755052]
+    },
+    "loc": {
+      "longitude": 2.159468,
+      "latitude": 48.755052
+    },
+    "meansOPayment": {
+      "cheque": false,
+      "cash": false,
+      "card": false
+    },
+    "email": "producer10@gmail.com",
+    "phone": "012345678",
+    "description": [],
+    "photos": [
+      {
+        "secure_url": "https://res.cloudinary.com/dvcdbwbpi/image/upload/v1575471675/g4ayuqoqhlpouccxade0.jpg",
+        "public_id": "g4ayuqoqhlpouccxade0"
+      }
+    ],
+    "products": ["5de92271a33c6c0017351902"],
+    "timeSlot": [
+      {
+        "Monday": {
+          "isOpen": false,
+          "availability": "08H00-12H00 13H00-18H00"
+        }
+      },
+      {
+        "Tuesday": {
+          "isOpen": true,
+          "availability": "08H00-12H00 13H00-18H00"
+        }
+      },
+      {
+        "Wednesday": {
+          "isOpen": true,
+          "availability": "08H00-12H00 13H00-18H00"
+        }
+      },
+      {
+        "Thursday": {
+          "isOpen": true,
+          "availability": "08H00-12H00 13H00-18H00"
+        }
+      },
+      {
+        "Friday": {
+          "isOpen": true,
+          "availability": "08H00-12H00 13H00-18H00"
+        }
+      },
+      {
+        "Saturday": {
+          "isOpen": true,
+          "availability": "08H00-12H00 13H00-18H00"
+        }
+      },
+      {
+        "Sunday": {
+          "isOpen": false,
+          "availability": "08H00-12H00 13H00-18H00"
+        }
+      }
+    ],
+    "_id": "5de7ca3ce051310017ce6598",
+    "name": "mon producteur 001",
+    "__v": 1,
+    "createdOn": "2019-12-06T15:01:14.884Z",
+    "updatedOn": "2019-12-06T15:01:14.885Z"
+  },
+  {
+    "address": {
+      "street": "Ferme de Viltain",
+      "city": "Jouy-en-Josas",
+      "zipCode": "78350"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [2.159468, 48.755052]
+    },
+    "loc": {
+      "longitude": 2.159468,
+      "latitude": 48.755052
+    },
+    "meansOPayment": {
+      "cheque": true,
+      "cash": true,
+      "card": true
+    },
+    "email": "bidon1@gmail.com",
+    "phone": "0139563814",
+    "description": ["Produits de la ferme"],
+    "photos": [
+      {
+        "secure_url": "https://res.cloudinary.com/dvcdbwbpi/image/upload/v1575477250/dkllfw78fgcmvbopawjc.jpg",
+        "public_id": "dkllfw78fgcmvbopawjc"
+      }
+    ],
+    "products": [
+      "5de922c8a33c6c0017351904",
+      "5de92422a33c6c0017351906",
+      "5de9247ea33c6c0017351907",
+      "5de93ac65a9cb10017b00606",
+      "5dea225e5574e1001775f60f",
+      "5dea5fc56184f20017b8b816"
+    ],
+    "timeSlot": [
+      {
+        "Monday": {
+          "isOpen": true,
+          "availability": "09H00-19H00"
+        }
+      },
+      {
+        "Tuesday": {
+          "isOpen": true,
+          "availability": "09H00-19H00"
+        }
+      },
+      {
+        "Wednesday": {
+          "isOpen": true,
+          "availability": "09H00-19H00"
+        }
+      },
+      {
+        "Thursday": {
+          "isOpen": true,
+          "availability": "09H00-19H00"
+        }
+      },
+      {
+        "Friday": {
+          "isOpen": true,
+          "availability": "09H00-19H00"
+        }
+      },
+      {
+        "Saturday": {
+          "isOpen": true,
+          "availability": "09H00-19H00"
+        }
+      },
+      {
+        "Sunday": {
+          "isOpen": false,
+          "availability": ""
+        }
+      }
+    ],
+    "_id": "5de7e002136b8b0017a8d84a",
+    "name": "Ferme de Viltain",
+    "__v": 6,
+    "createdOn": "2019-12-06T14:03:49.295Z",
+    "updatedOn": "2019-12-06T14:03:49.295Z"
+  },
+  {
+    "address": {
+      "street": "10 rue du Maréchal Joffre",
+      "city": "Versailles",
+      "zipCode": "78000"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [2, 48]
+    },
+    "loc": {
+      "longitude": 2.124084,
+      "latitude": 48.799193
+    },
+    "meansOPayment": {
+      "cheque": true,
+      "cash": true,
+      "card": true
+    },
+    "email": "bidon2@gmail.com",
+    "phone": "0139246262",
+    "description": ["Fruits et légumes"],
+    "photos": [
+      {
+        "secure_url": "https://res.cloudinary.com/dvcdbwbpi/image/upload/v1575478357/kz8mx78f9vti8d9osbcq.jpg",
+        "public_id": "kz8mx78f9vti8d9osbcq"
+      }
+    ],
+    "products": ["5dea5c4e6184f20017b8b812"],
+    "timeSlot": [
+      {
+        "Monday": {
+          "isOpen": true,
+          "availability": "10H00-18H00"
+        }
+      },
+      {
+        "Tuesday": {
+          "isOpen": true,
+          "availability": "10H00-18H00"
+        }
+      },
+      {
+        "Wednesday": {
+          "isOpen": true,
+          "availability": "10H00-18H00"
+        }
+      },
+      {
+        "Thursday": {
+          "isOpen": true,
+          "availability": "10H00-18H00"
+        }
+      },
+      {
+        "Friday": {
+          "isOpen": true,
+          "availability": "10H00-18H00"
+        }
+      },
+      {
+        "Saturday": {
+          "isOpen": true,
+          "availability": "10H00-18H00"
+        }
+      },
+      {
+        "Sunday": {
+          "isOpen": true,
+          "availability": "10H00-18H00"
+        }
+      }
+    ],
+    "_id": "5de7e456136b8b0017a8d84b",
+    "name": "Le potager du roi",
+    "__v": 1,
+    "createdOn": "2019-12-06T13:49:03.010Z",
+    "updatedOn": "2019-12-06T13:49:03.010Z"
+  },
+  {
+    "address": {
+      "street": "Route de Bailly ",
+      "city": "NOP",
+      "zipCode": "78210"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [2, 48]
+    },
+    "loc": {
+      "longitude": 2.082316,
+      "latitude": 48.818378
+    },
+    "meansOPayment": {
+      "cheque": true,
+      "cash": true,
+      "card": true
+    },
+    "email": "bidon3@gmail.com",
+    "phone": "0130146060",
+    "description": ["Produits de la ferme"],
+    "photos": [
+      {
+        "secure_url": "https://res.cloudinary.com/dvcdbwbpi/image/upload/v1575479820/rx5rasormt0fw8nqm60c.jpg",
+        "public_id": "rx5rasormt0fw8nqm60c"
+      }
+    ],
+    "products": ["5dea5ccd6184f20017b8b814"],
+    "timeSlot": [
+      {
+        "Monday": {
+          "isOpen": true,
+          "availability": "09H30-19H00"
+        }
+      },
+      {
+        "Tuesday": {
+          "isOpen": true,
+          "availability": "09H30-19H00"
+        }
+      },
+      {
+        "Wednesday": {
+          "isOpen": true,
+          "availability": "09H30-19H00"
+        }
+      },
+      {
+        "Thursday": {
+          "isOpen": true,
+          "availability": "09H30-19H00"
+        }
+      },
+      {
+        "Friday": {
+          "isOpen": true,
+          "availability": "09H30-19H00"
+        }
+      },
+      {
+        "Saturday": {
+          "isOpen": true,
+          "availability": "09H30-19H00"
+        }
+      },
+      {
+        "Sunday": {
+          "isOpen": true,
+          "availability": "09H30-19H00"
+        }
+      }
+    ],
+    "_id": "5de7ea0d136b8b0017a8d84c",
+    "name": "La ferme de Gally",
+    "__v": 1,
+    "createdOn": "2019-12-06T13:51:09.719Z",
+    "updatedOn": "2019-12-06T13:51:09.719Z"
+  },
+  {
+    "address": {
+      "street": "Route de Bailly ",
+      "city": "NOP",
+      "zipCode": "78210"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [2.082326, 48.818378]
+    },
+    "loc": {
+      "longitude": 2.082326,
+      "latitude": 48.818378
+    },
+    "meansOPayment": {
+      "cheque": true,
+      "cash": true,
+      "card": true
+    },
+    "email": "correction@gmail.com",
+    "phone": "0130146060",
+    "description": ["Produits de la ferme"],
+    "photos": [
+      {
+        "secure_url": "https://res.cloudinary.com/dvcdbwbpi/image/upload/v1575481217/xs1keecpqwwjr4rswn5a.jpg",
+        "public_id": "xs1keecpqwwjr4rswn5a"
+      }
+    ],
+    "products": ["5dea64286184f20017b8b819"],
+    "timeSlot": [
+      {
+        "Monday": {
+          "isOpen": true,
+          "availability": "09H30-19H00"
+        }
+      },
+      {
+        "Tuesday": {
+          "isOpen": true,
+          "availability": "09H30-19H00"
+        }
+      },
+      {
+        "Wednesday": {
+          "isOpen": true,
+          "availability": "09H30-19H00"
+        }
+      },
+      {
+        "Thursday": {
+          "isOpen": true,
+          "availability": "09H30-19H00"
+        }
+      },
+      {
+        "Friday": {
+          "isOpen": true,
+          "availability": "09H30-19H00"
+        }
+      },
+      {
+        "Saturday": {
+          "isOpen": true,
+          "availability": "09H30-19H00"
+        }
+      },
+      {
+        "Sunday": {
+          "isOpen": true,
+          "availability": "09H30-19H00"
+        }
+      }
+    ],
+    "_id": "5de7ef8101ac960017468e79",
+    "name": "correction",
+    "__v": 1,
+    "createdOn": "2019-12-06T14:22:32.198Z",
+    "updatedOn": "2019-12-06T14:22:32.198Z"
+  },
+  {
+    "address": {
+      "street": "Ferme Frichot,Ferme du Bon Puits - La Petite Vallée ",
+      "city": "Boinville en Mantois",
+      "zipCode": "78930"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [1.757091, 48.927865]
+    },
+    "loc": {
+      "longitude": 1.757091,
+      "latitude": 48.927865
+    },
+    "meansOPayment": {
+      "cheque": true,
+      "cash": true,
+      "card": true
+    },
+    "email": "bidon5@gmail.com",
+    "phone": "01 30 42 34 64",
+    "description": [],
+    "photos": [
+      {
+        "secure_url": "https://res.cloudinary.com/dvcdbwbpi/image/upload/v1575551793/xpiad2wpzsi8ok2jepru.jpg",
+        "public_id": "xpiad2wpzsi8ok2jepru"
+      }
+    ],
+    "products": [],
+    "timeSlot": [
+      {
+        "Monday": {
+          "isOpen": true,
+          "availability": "08H30-16H30"
+        }
+      },
+      {
+        "Tuesday": {
+          "isOpen": true,
+          "availability": "08H30-16H30"
+        }
+      },
+      {
+        "Wednesday": {
+          "isOpen": true,
+          "availability": "08H30-16H30"
+        }
+      },
+      {
+        "Thursday": {
+          "isOpen": true,
+          "availability": "08H30-16H30"
+        }
+      },
+      {
+        "Friday": {
+          "isOpen": true,
+          "availability": "08H30-16H30"
+        }
+      },
+      {
+        "Saturday": {
+          "isOpen": false,
+          "availability": ""
+        }
+      },
+      {
+        "Sunday": {
+          "isOpen": false,
+          "availability": ""
+        }
+      }
+    ],
+    "_id": "5de903312c05a10017c7372a",
+    "name": "Ferme du Bon Puits - La Petite Vallée",
+    "__v": 0,
+    "createdOn": "2019-12-06T15:01:14.890Z",
+    "updatedOn": "2019-12-06T15:01:14.890Z"
+  },
+  {
+    "address": {
+      "street": "Ferme Frichot,Ferme du Bon Puits - La Petite Vallée ",
+      "city": "Boinville en Mantois",
+      "zipCode": "78930"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [1.757091, 48.927865]
+    },
+    "loc": {
+      "longitude": 1.757091,
+      "latitude": 48.927865
+    },
+    "meansOPayment": {
+      "cheque": true,
+      "cash": true,
+      "card": true
+    },
+    "email": "bidon5@gmail.com",
+    "phone": "01 30 42 34 64",
+    "description": [],
+    "photos": [
+      {
+        "secure_url": "https://res.cloudinary.com/dvcdbwbpi/image/upload/v1575551793/xpiad2wpzsi8ok2jepru.jpg",
+        "public_id": "xpiad2wpzsi8ok2jepru"
+      }
+    ],
+    "products": [],
+    "timeSlot": [
+      {
+        "Monday": {
+          "isOpen": true,
+          "availability": "08H30-16H30"
+        }
+      },
+      {
+        "Tuesday": {
+          "isOpen": true,
+          "availability": "08H30-16H30"
+        }
+      },
+      {
+        "Wednesday": {
+          "isOpen": true,
+          "availability": "08H30-16H30"
+        }
+      },
+      {
+        "Thursday": {
+          "isOpen": true,
+          "availability": "08H30-16H30"
+        }
+      },
+      {
+        "Friday": {
+          "isOpen": true,
+          "availability": "08H30-16H30"
+        }
+      },
+      {
+        "Saturday": {
+          "isOpen": false,
+          "availability": ""
+        }
+      },
+      {
+        "Sunday": {
+          "isOpen": false,
+          "availability": ""
+        }
+      }
+    ],
+    "_id": "5dea2ab2ca7c8b080ef242de",
+    "name": "Ferme du Bon Puits - La Petite Vallée CLONE Pierre",
+    "__v": 0,
+    "createdOn": "2019-12-06T15:01:14.891Z",
+    "updatedOn": "2019-12-06T15:01:14.891Z"
+  }
+]

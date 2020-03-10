@@ -1,0 +1,167 @@
+[
+  {
+    "description": [
+      "Conservation dans un endroit sec à l'abri de l'air et de la lumière"
+    ],
+    "photos": [
+      {
+        "secure_url": "https://res.cloudinary.com/dvcdbwbpi/image/upload/v1575559880/nv8g4iba2vfsocj4tr1f.jpg",
+        "public_id": "nv8g4iba2vfsocj4tr1f"
+      }
+    ],
+    "labels": ["bio"],
+    "_id": "5de922c8a33c6c0017351904",
+    "category": "5de670462013b30ff9c1b81a",
+    "weight": "Poids net: 50g, 250g ou 1kg",
+    "name": "cagette de fruits",
+    "ingredient": "100% piment d'Espelette AOP",
+    "producer": "5de7e002136b8b0017a8d84a",
+    "__v": 0
+  },
+  {
+    "description": [
+      "Conservation dans un endroit sec à l'abri de l'air et de la lumière"
+    ],
+    "photos": [
+      {
+        "secure_url": "https://res.cloudinary.com/dvcdbwbpi/image/upload/v1575560226/sdnrfgtjjzhcm46iq3ji.jpg",
+        "public_id": "sdnrfgtjjzhcm46iq3ji"
+      }
+    ],
+    "labels": ["bio"],
+    "_id": "5de92422a33c6c0017351906",
+    "category": "5de7cf22e051310017ce659c",
+    "weight": "Poids net: 50g, 250g ou 1kg",
+    "name": "pommes de terre",
+    "ingredient": "100% piment d'Espelette AOP",
+    "producer": "5de7e002136b8b0017a8d84a",
+    "__v": 0
+  },
+  {
+    "description": [
+      "Conservation dans un endroit sec à l'abri de l'air et de la lumière"
+    ],
+    "photos": [
+      {
+        "secure_url": "https://res.cloudinary.com/dvcdbwbpi/image/upload/v1575560318/h3z23xmsf7umgz26dh4m.jpg",
+        "public_id": "h3z23xmsf7umgz26dh4m"
+      }
+    ],
+    "labels": ["bio"],
+    "_id": "5de9247ea33c6c0017351907",
+    "category": "5de7cf22e051310017ce659c",
+    "weight": "Poids net: 50g, 250g ou 1kg",
+    "name": "pommes de terre",
+    "ingredient": "100% piment d'Espelette AOP",
+    "__v": 0
+  },
+  {
+    "description": [
+      "Conservation dans un endroit sec à l'abri de l'air et de la lumière"
+    ],
+    "photos": [
+      {
+        "secure_url": "https://res.cloudinary.com/dvcdbwbpi/image/upload/v1575565934/ohfss84rabydbimdi6zz.jpg",
+        "public_id": "ohfss84rabydbimdi6zz"
+      }
+    ],
+    "labels": ["bio"],
+    "_id": "5de93a6e5a9cb10017b00605",
+    "category": "5de670462013b30ff9c1b81a",
+    "weight": "Poids net: 50g, 250g ou 1kg",
+    "name": "cagette de fruits",
+    "ingredient": "100% piment d'Espelette AOP",
+    "producer": "5de670462013b30ff9c1b81c",
+    "__v": 0
+  },
+  {
+    "description": ["Conservation dans un frigo à 6°C"],
+    "photos": [
+      {
+        "secure_url": "https://res.cloudinary.com/dvcdbwbpi/image/upload/v1575622189/yvkhvglbekmfwxcgpnot.jpg",
+        "public_id": "yvkhvglbekmfwxcgpnot"
+      }
+    ],
+    "labels": ["bio"],
+    "_id": "5dea162d5574e1001775f60d",
+    "category": "5de9860a470e1b00171d543b",
+    "weight": "Poids net: 500g, 1kg",
+    "name": "Coq au vin",
+    "ingredient": "100% poulet fermier",
+    "producer": "5de670462013b30ff9c1b81c",
+    "__v": 0
+  },
+  {
+    "description": ["Conservation dans un frigo à 6°C"],
+    "photos": [
+      {
+        "secure_url": "https://res.cloudinary.com/dvcdbwbpi/image/upload/v1575622299/qpeari5bvlpnm1l9dvis.jpg",
+        "public_id": "qpeari5bvlpnm1l9dvis"
+      }
+    ],
+    "labels": ["bio"],
+    "_id": "5dea169c5574e1001775f60e",
+    "category": "5de9860a470e1b00171d543b",
+    "weight": "Poids net: 500g, 1kg",
+    "name": "Coq au vin",
+    "ingredient": "100% poulet fermier",
+    "__v": 0
+  },
+  {
+    "description": [
+      "Conservation dans un endroit sec à l'abri de l'air et de la lumière"
+    ],
+    "photos": [""],
+    "labels": ["bio"],
+    "_id": "5dea225e5574e1001775f60f",
+    "category": "5de670462013b30ff9c1b81a",
+    "weight": "Poids net: 50g, 250g ou 1kg",
+    "name": "cagette de fruits",
+    "ingredient": "100% piment d'Espelette AOP",
+    "producer": "5de7e002136b8b0017a8d84a",
+    "__v": 0
+  },
+  {
+    "description": [
+      "Conservation dans un endroit sec à l'abri de l'air et de la lumière"
+    ],
+    "photos": [
+      {
+        "secure_url": "https://res.cloudinary.com/dvcdbwbpi/image/upload/v1575640142/ql0awwny4fd5eear444p.jpg",
+        "public_id": "ql0awwny4fd5eear444p"
+      }
+    ],
+    "labels": ["bio"],
+    "_id": "5dea5c4e6184f20017b8b812",
+    "category": "5de670462013b30ff9c1b81a",
+    "weight": "Poids net: 50g, 250g ou 1kg",
+    "name": "cagette de fruits",
+    "ingredient": "100% piment d'Espelette AOP",
+    "producer": "5de7e456136b8b0017a8d84b",
+    "__v": 0
+  },
+  {
+    "description": ["test producer"],
+    "photos": [""],
+    "labels": ["bio"],
+    "_id": "5dea5fc56184f20017b8b816",
+    "category": "5dea5c276184f20017b8b811",
+    "weight": "Poids net: 50g, 250g ou 1kg",
+    "name": "cagette de fruits",
+    "ingredient": "100% piment d'Espelette AOP",
+    "producer": "5de7e002136b8b0017a8d84a",
+    "__v": 0
+  },
+  {
+    "description": ["test producer"],
+    "photos": [""],
+    "labels": ["bio"],
+    "_id": "5dea64286184f20017b8b819",
+    "category": "5dea5c276184f20017b8b811",
+    "weight": "Poids net: 50g, 250g ou 1kg",
+    "name": "cagette de fruits",
+    "ingredient": "100% piment d'Espelette AOP",
+    "producer": "5de7ef8101ac960017468e79",
+    "__v": 0
+  }
+]
